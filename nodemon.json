@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGODB_HOST": "mongodb://127.0.0.1/node-rest-shop",
+        "JWT_KEY": "secret"
+    }
+}
